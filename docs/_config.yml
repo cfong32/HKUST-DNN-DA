@@ -11,4 +11,4 @@ model_date: 2021-10-30
 color:
     gradient_left: "#d04b18"
     gradient_right: "#dfb24a"
-theme: jekyll-theme-cayman
+theme: jekyll-theme-slate
