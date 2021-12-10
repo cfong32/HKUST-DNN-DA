@@ -1,10 +1,10 @@
 ---
 layout: default
-title: HKUST-DNN-DA
+title: HKUST-DNN_DA
 ---
 
 ## About
-HKUST-DNN-DA forecasts COVID-19 trends at state level using deep neural networks. Based on observations of deaths and cases since the outbreak \[<a href="#data-source">1</a>\], our models are trained to predict state-level weekly incident cases in Germany.  Training processes are enhanced by specially designed data augmentation on observed data.
+HKUST-DNN_DA forecasts COVID-19 trends at state level using deep neural networks. Based on observations of deaths and cases since the outbreak \[<a href="#data-source">1</a>\], our models are trained to predict state-level weekly incident cases in Germany.  Training processes are enhanced by specially designed data augmentation on observed data.
 
 ## Latest state-level forecast
 (updated on {{site.updated_on}})  

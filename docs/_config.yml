@@ -1,6 +1,6 @@
 # remote_theme: tuur29/pages-themes-cayman
 theme: jekyll-theme-slate
-title: HKUST-DNN-DA
+title: HKUST-DNN_DA
 description: State-level COVID-19 Trend Forecasting using Deep Neural Networks with Data Augmentation
 show_downloads: false
 # google_analytics: G-DDFGPDH5TE
