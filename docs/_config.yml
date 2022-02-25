@@ -6,8 +6,8 @@ show_downloads: false
 # google_analytics: G-DDFGPDH5TE
 github:
   is_project_page: false
-updated_on: 2022-02-07
-model_date: 2022-02-05
+updated_on: 2022-02-21
+model_date: 2022-02-19
 colors:
     gradient_left: "#d04b18"
     gradient_right: "#dfb24a"
